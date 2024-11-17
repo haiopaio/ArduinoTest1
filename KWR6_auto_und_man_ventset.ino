@@ -1,4 +1,4 @@
-/* ###################################
+/* Änderung 1###################################
 Mit Zeitverzögerungen Zeile 42 und 222, activeOn in Zeile 50, 102
 Das Poti stellt normalerweise den Sollwert ein. 
 und optional manuelle Steuerung des Servos durch das Poti in Zeile 115 
